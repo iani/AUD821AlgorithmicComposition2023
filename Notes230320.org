@@ -1,55 +1,74 @@
 
 * Lectures to see on Youtube: 
-
-** Martin Scherzinger: Mathematics of African Dance Rhythms
+** African Music
+*** Martin Scherzinger: Mathematics of African Dance Rhythms
 
 https://www.youtube.com/watch?v=2TgFp76Rnig
 
 Notable sections: 
 
-*** Introducing basic rhythm patterns: 
+**** Introducing basic rhythm patterns:
 https://youtu.be/2TgFp76Rnig?t=305
 
-*** African Music in American Popular music
+**** African Music in American Popular music
 
 Tha Amen Break, and other examples. 
 https://youtu.be/2TgFp76Rnig?t=1193
 
-*** Mathematical underpinnings
+**** Mathematical underpinnings
 
 Entrainment, Metric Ambiguity, Pingala's Mountain of Jewels and Pascal's Triangle, 8 Bit-encoding phrase. 
 
 https://youtu.be/2TgFp76Rnig?t=3230
-
-** Manjul Bhargava, keynote lecture: International Conference on the Zero: Mathematics in Indian Music
-
-https://youtu.be/wSIu11HxkdY
-
-** Kofi Agawu: Rhythmic Imagination in African Music
-
+*** Kofi Agawu: Rhythmic Imagination in African Music
 Theoretical and Ethnomusicological foundations
 
 https://youtu.be/uyRG9T7CGt8
 
-** Kofi Agawu: Anku’s Theory of African Rhythm
+*** Kofi Agawu: Anku’s Theory of African Rhythm
 
 Theory of African Music
-From the lecture: 
-"Anku was inspired ... to seek thje organizing principles of African derumming conceived entirely in aurality within currrent technolgies of writing" 
+From the lecture:
+"Anku was inspired ... to seek thje organizing principles of African derumming conceived entirely in aurality within currrent technolgies of writing"
 
 https://youtu.be/SUYMF8Wr3Eg
 
-** Noel Lobley : Hyperactive rhythms: identity, mutation and persistence of sampled beats and breaks
+*** Noel Lobley : Hyperactive rhythms: identity, mutation and persistence of sampled beats and breaks
 
-Contemporary political implications and cross-ethnical influences. 
+Contemporary political implications and cross-ethnical influences.
 
 https://youtu.be/jbb_jS7uizI
+
+** Indian Music
+*** Manjul Bhargava, keynote lecture: International Conference on the Zero: Mathematics in Indian Music
+
+https://youtu.be/wSIu11HxkdY
+
+*** FULL VERSION - Lec Dem Misra Chapu Tala by Mannarkoil Balaji
+https://www.youtube.com/watch?v=Sb38kTp6O90&t=2632s
+*** Mannarkoil BValaji-Lecdem on Tala and Korvai
+
+https://www.youtube.com/watch?v=FE3gQEgrNBE&t=11s
+
+https://youtu.be/mzanBWsf6ko?t=1768
+The first step to approaching rhythm is this way: You go to the root. The root is mathematics. And you find the representation in Music, that is the second step. Third step, you find out a method to [unclear...] give this as a presentation. That is the third steps.
+[...]
+When you are not getting a presentation, you go back to mathematics.
+
+It is a cycle.
+
+When you are not getting a pattern, go to mathematics.
+
+https://www.youtube.com/watch?v=kHWP3XsEoik Carnatic Music Season 2015 l Lec Dem l Kunnakudi Balamurali Krishna Concept K N Shashikiran
+
 
 * References
 
 Godefried Toussaint: The Geometry of Musical Rhythm 
 
 Rafael Reina: Applying Karnatic Rhythmical Techniques to Western Music
-
-
-
+(Note:
+Podcast with Rafael Reina:
+https://www.youtube.com/watch?v=ZiA-yIgzzKE
+Rafael Reina: South Indian Rhythms for Western Music | The Power of Rhythm Podcast
+)
